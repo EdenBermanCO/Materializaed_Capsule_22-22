@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"attached_datasets": [
+		{
+			"id": "2737f122-3233-4970-be41-64fa967fadcf",
+			"mount": "Internal"
+		},
+		{
+			"id": "78e52f35-76dc-4726-97da-b0c3d3904092",
+			"mount": "External"
+		}
+	]
+}
